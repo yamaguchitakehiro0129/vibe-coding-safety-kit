@@ -137,3 +137,4 @@ Lovable、Bolt、Cursor、Claude Code を使い始めたばかりの人へ。
 改善提案、追記、誤りの指摘は歓迎する。
 
 [CONTRIBUTING.md](CONTRIBUTING.md) を読んでから Issue または Pull Request を送ってほしい。
+# vibe-coding-safety-kit
